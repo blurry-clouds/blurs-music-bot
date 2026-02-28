@@ -2,3 +2,9 @@ node_modules/
 .env
 *.log
 dist/
+
+# local backups
+*.bak.*
+
+# local npm config
+.npmrc
